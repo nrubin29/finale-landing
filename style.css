@@ -58,7 +58,16 @@ h3, h4 {
 }
 
 .download {
-    display: flex;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.download img {
+    margin-bottom: 0.25em;
+}
+
+.download > *:not(:last-child) {
+    margin-right: 1em;
 }
 
 .screenshots {
