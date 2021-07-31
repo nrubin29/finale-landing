@@ -101,6 +101,10 @@ a {
     text-decoration: none;
 }
 
+.bottom-links > :not(:last-child) {
+    margin-right: 1em;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background: #0a0a0a;
