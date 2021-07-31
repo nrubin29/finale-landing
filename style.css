@@ -81,10 +81,19 @@ h3, h4 {
     justify-content: center;
 }
 
+.screenshots div {
+    display: flex;
+    flex-direction: column;
+    margin: 1em;
+    flex: 1;
+    align-items: center;
+    text-align: center;
+}
+
 .screenshots img {
     width: calc(1284px / 5);
     height: calc(2778px / 5);
-    margin: 1em;
+    margin-bottom: 1em;
 }
 
 a {
