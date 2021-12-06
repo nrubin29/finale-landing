@@ -26,7 +26,7 @@ body > * {
 .profile .icon {
     width: 150px;
     height: 150px;
-    background: url("images/icon.png") no-repeat center;
+    background: url("https://raw.githubusercontent.com/nrubin29/finale/master/assets/images/icon.png") no-repeat center;
     background-size: 155px auto;
     border-radius: 22.37%;
     margin: 0 1em 0 0;
